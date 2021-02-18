@@ -98,4 +98,6 @@ public class BeerServiceTest {
 
         assertThat(foundBeerDTO, is(equalTo(expectedFoundBeerDTO)));
     }
+
+
 }
